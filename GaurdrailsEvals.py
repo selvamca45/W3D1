@@ -12,6 +12,7 @@ load_dotenv(override=True)
 if not os.getenv("OPENAI_API_KEY"):
     raise ValueError("Please set your OPENAI_API_KEY in the environment or .env file.")
 
+
 # ==========================================
 # PART 1: NeMo Guardrails Setup
 # ==========================================
