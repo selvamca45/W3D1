@@ -1,0 +1,3 @@
+Neo4j is a graph database management system developed by Neo4j, Inc. 
+LangChain is a framework designed to simplify the creation of applications using large language models. 
+Alice works at Acme Corp in New York. Acme Corp partners with TechGlobal.
